@@ -1,3 +1,5 @@
+Badge Trailhead : [Heroku Flow](https://trailhead.salesforce.com/fr/content/learn/modules/heroku-flow)
+
 # Heroku Flow Demo
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
